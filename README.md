@@ -29,7 +29,7 @@
 3. Add the following to your `server.cfg`:
 
 ```
-exec resources/[local]/weathersync/permissions.cfg
+exec permissions.cfg
 start weathersync
 ```
 
